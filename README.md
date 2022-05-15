@@ -9,3 +9,16 @@ At that point it asked me to put a headshot in here but I didn't want to go thro
 ##### To Add Headshot
 Click on the pencil above the **README.md** file and add the following line:  
 ```![headshot](name_of_file.jpg)```
+
+
+## Favorite Books ##
+Obviously I will swear by any book in the *Discworld Series* by Terry Pratchett.  First and foremost.  *Ender's Game* comes in a close second.
+After that I have a few:  
+ * Hitchhiker's Guide to the Galaxy
+ * The Regiment
+ * The Brotherhood of War series
+ * The Dresden Series
+ * The Guns of the South  
+
+
+Really, just far too many.

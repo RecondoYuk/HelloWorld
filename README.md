@@ -1,6 +1,6 @@
 # HelloWorld
 A repository for the first solo project exercise in "Github for Dummies"
-
+![headshot](ASYGI0415_1.jpg)
 ## Update
 I started this book back in 2021 and then got distracted like I usually do with my **ADHD** until I finally came back to it in May of 2022.  
 
